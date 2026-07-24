@@ -9,7 +9,7 @@ public class SwapTwoNumbers {
         int temp = a;
          a = b;
          b = temp;
-        System.out.println("a: " + a + "b: "+b);
+        System.out.println("a: " + a +  "b: "+b);
         
     }
 }
